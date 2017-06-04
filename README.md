@@ -6,5 +6,6 @@ https://medium.com/tall-west/lets-ditch-the-nav-bar-3692cb17cc67 - Nav bar on mo
 
 ## Perf
 https://developers.google.com/web/updates/2017/06/user-centric-performance-metrics
+https://developers.google.com/web/fundamentals/performance/rail
 
 
